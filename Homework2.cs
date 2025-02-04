@@ -1,8 +1,3 @@
-﻿using System.Collections;
-using System.Globalization;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
-
 namespace Homework2;
 
 class Program
@@ -43,7 +38,7 @@ class Program
         {
             Console.WriteLine("Wrong Letter Grade!");
         }
-    {
+        {
         // code for Q2 // This one took me a bit. the if statements and <= values were tricky. 
         Console.Write("Please input the first number:");
         int num1 = Convert.ToInt16(Console.ReadLine());
@@ -71,7 +66,7 @@ class Program
         Console.WriteLine("The smallest value is: " + smallest);
 
         }
-    {
+        {
         //Code for Q3 
 
         Console.Write("Please input a year: ");
@@ -86,6 +81,6 @@ class Program
             Console.WriteLine($"{year} is not a Leap Year.");
         }        
         
-    }
+        }
     }
 }
