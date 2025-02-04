@@ -1,3 +1,5 @@
 1/26/2025: 
 -Create Repository for CIDM2315, add changelog file.
 -Uploaded Homework1 code file
+2/3/2025:
+-uploaded Homework 2 code file
